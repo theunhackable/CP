@@ -6,7 +6,7 @@ CP SHEET: [link](https://takeuforward.org/interview-experience/strivers-cp-sheet
 SDE SHEET: [link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) 
 ___
 
-## Basics
+## 1. Basics
 
 | S.No| Topic                                                                                                     | Status |
 |-----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -19,7 +19,7 @@ ___
 |7.   | Sliding window technique(CP Sheet has problems)                                                           |        |
 ___ 
 
-## Basics of number theory
+## 2. Basics of number theory
 
 | S.No| Topic                                                                                                     | Status |
 |-----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -35,7 +35,7 @@ ___
 
 ___
 
-## Tougher version of number theory (All from CodeNCode) 
+## 3. Tougher version of number theory (All from CodeNCode) 
 
 | S.No| Topic                                                                                                     | Status |
 |-----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -50,7 +50,7 @@ ___
 
 ___
 
-## Sorting and other stuff
+## 4. Sorting and other stuff
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -65,9 +65,9 @@ ___
 
 ___
 
-## Time to learn recursion (Codeverse 3 masterclasses by Striver and TakeUforward Playlist) 
+## 5. Time to learn recursion (Codeverse 3 masterclasses by Striver and TakeUforward Playlist) 
 
-## After Recursion:
+## 6. After Recursion:
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -80,7 +80,7 @@ ___
 
 ___
 
-## String algorithms: (Since these are advanced topics, you can read them from where you feel comfortable)
+## 7. String algorithms: (Since these are advanced topics, you can read them from where you feel comfortable)
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -93,7 +93,7 @@ ___
 
 ___
 
-## Tree Algorithm : 
+## 8. Tree Algorithm : 
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -107,7 +107,7 @@ ___
                                                                                                                   
 ___
 
-## Graphs: (TakeUforward Graph series) 
+## 9. Graphs: (TakeUforward Graph series) 
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -127,7 +127,7 @@ ___
 
 ___
 
-## Dynamic Programming:
+## 10. Dynamic Programming:
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -142,7 +142,7 @@ ___
 
 ___
 
-## Sets
+## 11. Sets
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -152,7 +152,7 @@ ___
 
 ___
 
-## Range Query Algos: 
+## 12. Range Query Algos: 
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -168,7 +168,7 @@ ___
 
 ___
 
-## Some optional and rare ones:
+## 13. Some optional and rare ones:
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
 | 1. | Sprague-Grundy Theorum                                                                                    |        |
