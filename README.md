@@ -2,7 +2,7 @@
 competetive coding
 
 Follow CP sheet for practice problems: 
-CP SHEET: (link)[https://takeuforward.org/interview-experience/strivers-cp-sheet/?utm_source=youtube&utm_medium=striver&utm_campaign=yt_video] <br> 
+CP SHEET: [link](https://takeuforward.org/interview-experience/strivers-cp-sheet/?utm_source=youtube&utm_medium=striver&utm_campaign=yt_video) <br> 
 SDE SHEET: https://bit.ly/takeUforward_SDE 
 ___
 
