@@ -11,11 +11,11 @@ ___
 | S.No| Topic                                                                                                     | Status |
 |-----|-----------------------------------------------------------------------------------------------------------|--------|
 |1.   | Pattern printing problems (Sourabh Shukla Videos on Youtube)                                              |        |
-|2.   | Time complexity analysis (Don’t stress to much, keep participating in contests, you will keep learning)   |        |
-|3.   | Linear search and circular array representation (any article, no need to practice)                        |        |
-|4.   | Palindrome and other numbers(perfect, Armstrong) for basic number problems                                |        |
-|5.   | Simple Hashing Problem(frequency counting and stuffs)                                                     |        |
-|6.   | Prefix Sum Problems(1D and 2D) {CP Sheet has problems}                                                    |        |
+|2.   | Time complexity analysis (Don’t stress to much, keep participating in contests, you will keep learning)   |  Done  |
+|3.   | Linear search and circular array representation (any article, no need to practice)                        |  Done  |
+|4.   | Palindrome and other numbers(perfect, Armstrong) for basic number problems                                |  Done  |
+|5.   | Simple Hashing Problem(frequency counting and stuffs)                                                     |  Done  |
+|6.   | Prefix Sum Problems(1D and 2D) {CP Sheet has problems}                                                    |    |
 |7.   | Sliding window technique(CP Sheet has problems)                                                           |        |
 ___ 
 
