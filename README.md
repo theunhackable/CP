@@ -15,8 +15,8 @@ ___
 |3.   | Linear search and circular array representation (any article, no need to practice)                        |  Done  |
 |4.   | Palindrome and other numbers(perfect, Armstrong) for basic number problems                                |  Done  |
 |5.   | Simple Hashing Problem(frequency counting and stuffs)                                                     |  Done  |
-|6.   | Prefix Sum Problems(1D and 2D) {CP Sheet has problems}                                                    |    |
-|7.   | Sliding window technique(CP Sheet has problems)                                                           |        |
+|6.   | Prefix Sum Problems(1D and 2D) {CP Sheet has problems}                                                    |  Done  |
+|7.   | Sliding window technique(CP Sheet has problems)                                                           |  Done  |
 ___ 
 
 ## 2. Basics of number theory
