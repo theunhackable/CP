@@ -50,7 +50,7 @@ ___
 
 ___
 
-## 4. Sorting and other stuff
+## 4. Sorting, Bit Manipulation and other stuff
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
