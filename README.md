@@ -24,7 +24,7 @@ ___
 | S.No| Topic                                                                                                     | Status |
 |-----|-----------------------------------------------------------------------------------------------------------|--------|
 | 1.  | Binary Search (TakeUforward Playlist and CP Sheet practice problems)                                      |  Done  |
-| 2.  | GCD of 2 numbers in logarithmic time(Euclidean and Extended Euclidean Algorithm) (CodeNCode)              |        |
+| 2.  | GCD of 2 numbers in logarithmic time(Euclidean and Extended Euclidean Algorithm) (CodeNCode)              |  Done  |
 | 3.  | linear Diphantine Equation (CodeNCode)                                                                    |        |
 | 4.  | Checking prime in sqrt(n) complexity (Learn from Codeverse Channel)                                       |        |
 | 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |        |
