@@ -27,7 +27,7 @@ ___
 | 2.  | GCD of 2 numbers in logarithmic time(Euclidean and Extended Euclidean Algorithm) (CodeNCode)              |  Done  |
 | 3.  | linear Diphantine Equation (CodeNCode)                                                                    |  Done  |
 | 4.  | Checking prime in sqrt(n) complexity (Learn from Codeverse Channel)                                       |  Done  |
-| 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |        |
+| 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |  Done  |
 | 6.  | Segmented Sieve (Learn from Codeverse Channel)                                                            |        |
 | 7.  | Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)                 |        |
 | 8.  | Euler Totent Function (CodeNcode)                                                                         |        |
