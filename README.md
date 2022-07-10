@@ -28,8 +28,8 @@ ___
 | 3.  | linear Diphantine Equation (CodeNCode)                                                                    |  Done  |
 | 4.  | Checking prime in sqrt(n) complexity (Learn from Codeverse Channel)                                       |  Done  |
 | 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |  Done  |
-| 6.  | Segmented Sieve (Learn from Codeverse Channel)                                                            |        |
-| 7.  | Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)                 |        |
+| 6.  | Segmented Sieve (Learn from Codeverse Channel)                                                            |  Done  |
+| 7.  | Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)                 |  Done  |
 | 8.  | Euler Totent Function (CodeNcode)                                                                         |        |
 | 9.  | Fermat Little Theorum (CodeNCode)                                                                         |        |
 
