@@ -30,8 +30,8 @@ ___
 | 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |  Done  |
 | 6.  | Segmented Sieve (Learn from Codeverse Channel)                                                            |  Done  |
 | 7.  | Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)                 |  Done  |
-| 8.  | Euler Totent Function (CodeNcode)                                                                         |        |
-| 9.  | Fermat Little Theorum (CodeNCode)                                                                         |        |
+| 8.  | Euler Totent Function (CodeNcode)                                                                         |  Done  |
+| 9.  | Fermat Little Theorum (CodeNCode)                                                                         |  Done  |
 
 ___
 
