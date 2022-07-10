@@ -19,38 +19,9 @@ ___
 |7.   | Sliding window technique(CP Sheet has problems)                                                           |  Done  |
 ___ 
 
-## 2. Basics of number theory
 
-| S.No| Topic                                                                                                     | Status |
-|-----|-----------------------------------------------------------------------------------------------------------|--------|
-| 1.  | Binary Search (TakeUforward Playlist and CP Sheet practice problems)                                      |  Done  |
-| 2.  | GCD of 2 numbers in logarithmic time(Euclidean and Extended Euclidean Algorithm) (CodeNCode)              |  Done  |
-| 3.  | linear Diphantine Equation (CodeNCode)                                                                    |  Done  |
-| 4.  | Checking prime in sqrt(n) complexity (Learn from Codeverse Channel)                                       |  Done  |
-| 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |  Done  |
-| 6.  | Segmented Sieve (Learn from Codeverse Channel)                                                            |  Done  |
-| 7.  | Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)                 |  Done  |
-| 8.  | Euler Totent Function (CodeNcode)                                                                         |  Done  |
-| 9.  | Fermat Little Theorum (CodeNCode)                                                                         |  Done  |
 
-___
-
-## 3. Tougher version of number theory (All from CodeNCode) 
-
-| S.No| Topic                                                                                                     | Status |
-|-----|-----------------------------------------------------------------------------------------------------------|--------|
-| 1.  | Finding x^n in log(n)                                                                                     |        |
-| 2.  | Modular Arithmetic                                                                                        |        |
-| 3.  | Modular Inverse of a number                                                                               |        |
-| 4.  | Modular Exponentiation                                                                                    |        |
-| 5.  | Chinese Remainder Theorum                                                                                 |        |
-| 6.  | Factorial Modulo Mod                                                                                      |        |
-| 7.  | Finding nCr and nPr for queries (constant time)                                                           |        |
-| 8.  | Inclusion Exclusion Principle (combinatorics problems)                                                    |        |
-
-___
-
-## 4. Sorting, Bit Manipulation and other stuff
+## 2. Sorting, Bit Manipulation and other stuff
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -65,9 +36,9 @@ ___
 
 ___
 
-## 5. Time to learn recursion (Codeverse 3 masterclasses by Striver and TakeUforward Playlist) 
+## 3. Time to learn recursion (Codeverse 3 masterclasses by Striver and TakeUforward Playlist) 
 
-## 6. After Recursion:
+## 4. After Recursion:
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -80,7 +51,7 @@ ___
 
 ___
 
-## 7. String algorithms: (Since these are advanced topics, you can read them from where you feel comfortable)
+## 5. String algorithms: (Since these are advanced topics, you can read them from where you feel comfortable)
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -93,7 +64,7 @@ ___
 
 ___
 
-## 8. Tree Algorithm : 
+## 6. Tree Algorithm : 
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -107,7 +78,7 @@ ___
                                                                                                                   
 ___
 
-## 9. Graphs: (TakeUforward Graph series) 
+## 7. Graphs: (TakeUforward Graph series) 
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -127,7 +98,7 @@ ___
 
 ___
 
-## 10. Dynamic Programming:
+## 8. Dynamic Programming:
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -142,7 +113,7 @@ ___
 
 ___
 
-## 11. Sets
+## 9. Sets
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -152,7 +123,7 @@ ___
 
 ___
 
-## 12. Range Query Algos: 
+## 10. Range Query Algos: 
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
@@ -165,6 +136,36 @@ ___
 | 8. | Mo's algorithm on trees                                                                                   |        |
 | 9. | Segment Tree(a must)(Range Queries and point Updates)                                                     |        |
 | 10.| Lazy propagation on segment trees                                                                         |        |
+
+___
+## 11. Basics of number theory
+
+| S.No| Topic                                                                                                     | Status |
+|-----|-----------------------------------------------------------------------------------------------------------|--------|
+| 1.  | Binary Search (TakeUforward Playlist and CP Sheet practice problems)                                      |  Done  |
+| 2.  | GCD of 2 numbers in logarithmic time(Euclidean and Extended Euclidean Algorithm) (CodeNCode)              |  Done  |
+| 3.  | linear Diphantine Equation (CodeNCode)                                                                    |  Done  |
+| 4.  | Checking prime in sqrt(n) complexity (Learn from Codeverse Channel)                                       |  Done  |
+| 5.  | Sieve of Eratosthenes(Learn from Codeverse Channel)                                                       |  Done  |
+| 6.  | Segmented Sieve (Learn from Codeverse Channel)                                                            |  Done  |
+| 7.  | Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)                 |  Done  |
+| 8.  | Euler Totent Function (CodeNcode)                                                                         |  Done  |
+| 9.  | Fermat Little Theorum (CodeNCode)                                                                         |  Done  |
+
+___
+
+## 12. Tougher version of number theory (All from CodeNCode) 
+
+| S.No| Topic                                                                                                     | Status |
+|-----|-----------------------------------------------------------------------------------------------------------|--------|
+| 1.  | Finding x^n in log(n)                                                                                     |        |
+| 2.  | Modular Arithmetic                                                                                        |        |
+| 3.  | Modular Inverse of a number                                                                               |        |
+| 4.  | Modular Exponentiation                                                                                    |        |
+| 5.  | Chinese Remainder Theorum                                                                                 |        |
+| 6.  | Factorial Modulo Mod                                                                                      |        |
+| 7.  | Finding nCr and nPr for queries (constant time)                                                           |        |
+| 8.  | Inclusion Exclusion Principle (combinatorics problems)                                                    |        |
 
 ___
 
