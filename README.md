@@ -25,7 +25,7 @@ ___
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
-| 1. | Learn about basic sorting algorithms (bubble, selection, insertion)                                       |        |
+| 1. | Learn about basic sorting algorithms (bubble, selection, insertion)                                       |  Done  |
 | 2. | Do problems which are constructive and have a lot of swapping terms in it.                                |        |
 | 3. | Solve problems related to two pointer approach. (TakeUforward playlist)                                   |        |
 | 4. | Bit manipulation(left shift, right shift, xor, or, and,set bit,MSB, LSB etc..) (Codeverse)                |        |
