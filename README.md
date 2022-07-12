@@ -29,7 +29,7 @@ ___
 | 2. | Do problems which are constructive and have a lot of swapping terms in it.                                |        |
 | 3. | Solve problems related to two pointer approach. (TakeUforward playlist)                                   |        |
 | 4. | Bit manipulation(left shift, right shift, xor, or, and,set bit,MSB, LSB etc..) (Codeverse)                |  Done  |
-| 5. | Power set of a given array or string using BIT (TakeUforward has a lecture)                               |        |
+| 5. | Power set of a given array or string using BIT (TakeUforward has a lecture)                               |  Done  |
 | 6. | Number of subarrays with XOR as zero(not an algorithm but a must do problem) (TakeUforward)               |        |
 | 7. | Problems related to greedy algorithm (TakeUforward Playlist)                                              |        |
 | 8. | Kadane's algorithm (TakeUforward) and problems related to them                                            |  Done  |
