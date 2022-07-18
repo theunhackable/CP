@@ -57,8 +57,8 @@ ___
 |----|-----------------------------------------------------------------------------------------------------------|--------|
 | 1. |  Rolling Hash Function on strings {cpalgorithms has a wonderful article written on it) {Spoj or codeforces}|  Done | 
 | 2. | Rabin Karp Algorithm (cpalgorithms has a wonderful blog on it)                                            |  Done  |
-| 3. | Prefix Function (cpalgorithms)                                                                            |        |
-| 4. | KMP Algorithm                                                                                             |        |
+| 3. | Prefix Function (cpalgorithms)                                                                            |  Done  |
+| 4. | KMP Algorithm                                                                                             |  Done  |
 | 5. | Z-function                                                                                                |        |
 | 6. | Manchers' Algorithm (once you have wrapped up the above algorithms, solve a bunch of problems(25-30) on them from different platforms.)|  | 
 
