@@ -59,7 +59,7 @@ ___
 | 2. | Rabin Karp Algorithm (cpalgorithms has a wonderful blog on it)                                            |  Done  |
 | 3. | Prefix Function (cpalgorithms)                                                                            |  Done  |
 | 4. | KMP Algorithm                                                                                             |  Done  |
-| 5. | Z-function                                                                                                |        |
+| 5. | Z-function                                                                                                |  Done  |
 | 6. | Manchers' Algorithm (once you have wrapped up the above algorithms, solve a bunch of problems(25-30) on them from different platforms.)|  | 
 
 ___
