@@ -70,7 +70,7 @@ ___
 |----|-----------------------------------------------------------------------------------------------------------|--------|
 | 1. | Tree/Graph representation                                                                                 |  Done  |
 | 2. | DFS/BFS Traversal in Graph/Tree                                                                           |        |
-| 3. | Basic stuffs(diameter of tree, height of tree, level of tree)                                             |        |
+| 3. | Basic stuffs(diameter of tree, height of tree, level of tree)                                             |  Done  |
 | 4. | Euler Tour of Tree(Learn and solve problems)                                                              |        |
 | 5. | Finding LCA using Euler Tour{efficient solution uses segment trees)                                       |        |
 | 6. | Finding LCA using Binary Lifting. 7.Distance between two nodes.                                           |        |
