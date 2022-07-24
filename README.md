@@ -68,7 +68,7 @@ ___
 
 |S.No| Topic                                                                                                     | Status |
 |----|-----------------------------------------------------------------------------------------------------------|--------|
-| 1. | Tree/Graph representation                                                                                 |        |
+| 1. | Tree/Graph representation                                                                                 |  Done  |
 | 2. | DFS/BFS Traversal in Graph/Tree                                                                           |        |
 | 3. | Basic stuffs(diameter of tree, height of tree, level of tree)                                             |        |
 | 4. | Euler Tour of Tree(Learn and solve problems)                                                              |        |
