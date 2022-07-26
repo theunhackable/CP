@@ -10,7 +10,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 3 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)        |  Done  |
 | 4 | [151A - Soft Drinking](https://codeforces.com/problemset/problem/151/A)           |  Done  |
 | 5 | [723A - The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)   | Done  |
-| 6 | [PROBLEM](https://codeforces.com/problemset/problem/1352/A)  |   |
+| 6 | [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)  | Done  |
 | 7 | [PROBLEM](https://codeforces.com/problemset/problem/510/A)   |   |
 | 8 | [PROBLEM](https://codeforces.com/problemset/problem/785/A)   |   |
 | 9 | [PROBLEM](https://codeforces.com/problemset/problem/144/A)   |   |
