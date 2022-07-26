@@ -13,7 +13,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 6 | [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)  | Done  |
 | 7 | [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A)   | Done  |
 | 8 | [785A - Anton And Polyhedrons](https://codeforces.com/problemset/problem/785/A)   | Done  |
-| 9 | [PROBLEM](https://codeforces.com/problemset/problem/144/A)   |   |
+| 9 | [144A - Arrival of the General](https://codeforces.com/problemset/problem/144/A)   | Done  |
 | 10 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) |  Done |
 | 11 | [PROBLEM](https://codeforces.com/problemset/problem/136/A)  |   |
 | 12 | [PROBLEM](https://codeforces.com/problemset/problem/110/A)  |   |
