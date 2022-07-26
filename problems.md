@@ -22,7 +22,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 15 | [PROBLEM](https://codeforces.com/problemset/problem/546/A)  |   |
 | 16 | [PROBLEM](https://codeforces.com/problemset/problem/791/A)  |   |
 | 17 | [PROBLEM](https://codeforces.com/problemset/problem/236/A)  |   |
-| 18 | [PROBLEM](https://codeforces.com/problemset/problem/281/A)  |   |
+| 18 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  | Done  |
 | 19 | [PROBLEM](https://codeforces.com/problemset/problem/339/A)  |   |
 | 20 | [PROBLEM](https://codeforces.com/problemset/problem/1368/A) |   |
 | 21 | [PROBLEM](https://codeforces.com/problemset/problem/702/A)  |   |
