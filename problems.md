@@ -12,9 +12,9 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 5 | [723A - The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)   | Done  |
 | 6 | [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)  | Done  |
 | 7 | [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A)   | Done  |
-| 8 | [785A-AntonAndPolyhedrons](https://codeforces.com/problemset/problem/785/A)   | Done  |
+| 8 | [785A - Anton And Polyhedrons](https://codeforces.com/problemset/problem/785/A)   | Done  |
 | 9 | [PROBLEM](https://codeforces.com/problemset/problem/144/A)   |   |
-| 10 | [PROBLEM](https://codeforces.com/problemset/problem/1030/A) |   |
+| 10 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) |  Done |
 | 11 | [PROBLEM](https://codeforces.com/problemset/problem/136/A)  |   |
 | 12 | [PROBLEM](https://codeforces.com/problemset/problem/110/A)  |   |
 | 13 | [PROBLEM](https://codeforces.com/problemset/problem/116/A)  |   |
