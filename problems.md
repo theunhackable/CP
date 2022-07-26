@@ -9,7 +9,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 2 | [A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A)           |  Done  |
 | 3 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)        |  Done  |
 | 4 | [151A - Soft Drinking](https://codeforces.com/problemset/problem/151/A)           |  Done  |
-| 5 | [PROBLEM](https://codeforces.com/problemset/problem/723/A)   |   |
+| 5 | [723A - The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)   | Done  |
 | 6 | [PROBLEM](https://codeforces.com/problemset/problem/1352/A)  |   |
 | 7 | [PROBLEM](https://codeforces.com/problemset/problem/510/A)   |   |
 | 8 | [PROBLEM](https://codeforces.com/problemset/problem/785/A)   |   |
