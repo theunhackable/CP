@@ -28,7 +28,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 21 | [702A - Maximum Increase](https://codeforces.com/problemset/problem/702/A)  | Done  |
 | 22 | [1097A - Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | Done  |
 | 23 | [492A - Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)  | Done  |
-| 24 | [PROBLEM](https://codeforces.com/problemset/problem/1433/A) |   |
+| 24 | [1433A - Boring Apartments](https://codeforces.com/problemset/problem/1433/A) |  Done |
 | 25 | [PROBLEM](https://codeforces.com/problemset/problem/1303/A) |   |
 | 26 | [PROBLEM](https://codeforces.com/problemset/problem/1095/A) |   |
 | 27 | [PROBLEM](https://codeforces.com/problemset/problem/1391/B) |   |
