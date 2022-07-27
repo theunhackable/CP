@@ -16,7 +16,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 9 | [144A - Arrival of the General](https://codeforces.com/problemset/problem/144/A)   | Done  |
 | 10 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) |  Done |
 | 11 | [136A - Presents](https://codeforces.com/problemset/problem/136/A)  | Done  |
-| 12 | [PROBLEM](https://codeforces.com/problemset/problem/110/A)  |   |
+| 12 | [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)  | Done  |
 | 13 | [116A - Tram](https://codeforces.com/problemset/problem/116/A)  |  Done |
 | 14 | [PROBLEM](https://codeforces.com/problemset/problem/977/A)  |   |
 | 15 | [PROBLEM](https://codeforces.com/problemset/problem/546/A)  |   |
