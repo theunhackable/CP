@@ -19,7 +19,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 12 | [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)  | Done  |
 | 13 | [116A - Tram](https://codeforces.com/problemset/problem/116/A)  |  Done |
 | 14 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)  | Done  |
-| 15 | [PROBLEM](https://codeforces.com/problemset/problem/546/A)  |   |
+| 15 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)  |  Done |
 | 16 | [PROBLEM](https://codeforces.com/problemset/problem/791/A)  |   |
 | 17 | [PROBLEM](https://codeforces.com/problemset/problem/236/A)  |   |
 | 18 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  | Done  |
