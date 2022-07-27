@@ -21,7 +21,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 14 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)  | Done  |
 | 15 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)  |  Done |
 | 16 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)  |  Done |
-| 17 | [PROBLEM](https://codeforces.com/problemset/problem/236/A)  |   |
+| 17 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A)  | Done  |
 | 18 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  | Done  |
 | 19 | [PROBLEM](https://codeforces.com/problemset/problem/339/A)  |   |
 | 20 | [PROBLEM](https://codeforces.com/problemset/problem/1368/A) |   |
