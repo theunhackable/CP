@@ -25,7 +25,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 18 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  | Done  |
 | 19 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A)  | Done  |
 | 20 | [1368A - C+=](https://codeforces.com/problemset/problem/1368/A) | Done  |
-| 21 | [PROBLEM](https://codeforces.com/problemset/problem/702/A)  |   |
+| 21 | [702A - Maximum Increase](https://codeforces.com/problemset/problem/702/A)  | Done  |
 | 22 | [PROBLEM](https://codeforces.com/problemset/problem/1097/A) |   |
 | 23 | [PROBLEM](https://codeforces.com/problemset/problem/492/A)  |   |
 | 24 | [PROBLEM](https://codeforces.com/problemset/problem/1433/A) |   |
