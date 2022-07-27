@@ -23,8 +23,8 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 16 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)  |  Done |
 | 17 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A)  | Done  |
 | 18 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A)  | Done  |
-| 19 | [PROBLEM](https://codeforces.com/problemset/problem/339/A)  |   |
-| 20 | [PROBLEM](https://codeforces.com/problemset/problem/1368/A) |   |
+| 19 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A)  |   |
+| 20 | [PROBLEM](https://codeforces.com/problemset/problem/1368/A) | Done  |
 | 21 | [PROBLEM](https://codeforces.com/problemset/problem/702/A)  |   |
 | 22 | [PROBLEM](https://codeforces.com/problemset/problem/1097/A) |   |
 | 23 | [PROBLEM](https://codeforces.com/problemset/problem/492/A)  |   |
