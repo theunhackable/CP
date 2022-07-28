@@ -33,7 +33,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 26 | [1095A - Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | Done  |
 | 27 | [1391B - Fix You](https://codeforces.com/problemset/problem/1391/B) | Done  |
 | 28 | [118A - String Task](https://codeforces.com/problemset/problem/118/A)  | Done  |
-| 29 | [PROBLEM](https://codeforces.com/problemset/problem/1300/B) |   |
+| 29 | [1300B - Assigning to Classes](https://codeforces.com/problemset/problem/1300/B) |  REVISE |
 | 30 | [PROBLEM](https://codeforces.com/problemset/problem/1430/C) |   |
 | 31 | [PROBLEM](https://codeforces.com/contest/139/problem/A)     |   |
 | 32 | [PROBLEM](https://codeforces.com/problemset/problem/219/A)  |   |
