@@ -29,8 +29,8 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 22 | [1097A - Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | Done  |
 | 23 | [492A - Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)  | Done  |
 | 24 | [1433A - Boring Apartments](https://codeforces.com/problemset/problem/1433/A) |  Done |
-| 25 | [1303A - Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) |   |
-| 26 | [PROBLEM](https://codeforces.com/problemset/problem/1095/A) | Done  |
+| 25 | [1303A - Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) | Done  |
+| 26 | [1095A - Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | Done  |
 | 27 | [PROBLEM](https://codeforces.com/problemset/problem/1391/B) |   |
 | 28 | [PROBLEM](https://codeforces.com/problemset/problem/118/A)  |   |
 | 29 | [PROBLEM](https://codeforces.com/problemset/problem/1300/B) |   |
