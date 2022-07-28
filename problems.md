@@ -32,7 +32,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 25 | [1303A - Erasing Zeroes](https://codeforces.com/problemset/problem/1303/A) | Done  |
 | 26 | [1095A - Repeating Cipher](https://codeforces.com/problemset/problem/1095/A) | Done  |
 | 27 | [1391B - Fix You](https://codeforces.com/problemset/problem/1391/B) | Done  |
-| 28 | [PROBLEM](https://codeforces.com/problemset/problem/118/A)  |   |
+| 28 | [118A - String Task](https://codeforces.com/problemset/problem/118/A)  | Done  |
 | 29 | [PROBLEM](https://codeforces.com/problemset/problem/1300/B) |   |
 | 30 | [PROBLEM](https://codeforces.com/problemset/problem/1430/C) |   |
 | 31 | [PROBLEM](https://codeforces.com/contest/139/problem/A)     |   |
