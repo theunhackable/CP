@@ -34,7 +34,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 27 | [1391B - Fix You](https://codeforces.com/problemset/problem/1391/B) | Done  |
 | 28 | [118A - String Task](https://codeforces.com/problemset/problem/118/A)  | Done  |
 | 29 | [1300B - Assigning to Classes](https://codeforces.com/problemset/problem/1300/B) |  REVISE |
-| 30 | [PROBLEM](https://codeforces.com/problemset/problem/1430/C) |   |
+| 30 | [1430C - Numbers on Whiteboard](https://codeforces.com/problemset/problem/1430/C) | Done  |
 | 31 | [PROBLEM](https://codeforces.com/contest/139/problem/A)     |   |
 | 32 | [PROBLEM](https://codeforces.com/problemset/problem/219/A)  |   |
 | 33 | [PROBLEM](https://codeforces.com/problemset/problem/1141/A) |   |
