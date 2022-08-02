@@ -39,7 +39,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 32 | [219A - k-String](https://codeforces.com/problemset/problem/219/A)  |  Done |
 | 33 | [1141A - Game 23](https://codeforces.com/problemset/problem/1141/A) | Done  |
 | 34 | [118B - Present from Lena](https://codeforces.com/problemset/problem/118/B)  | Done   |
-| 35 | [PROBLEM](https://codeforces.com/problemset/problem/1373/A) |   |
+| 35 | [1373A - Donut Shops](https://codeforces.com/problemset/problem/1373/A) |  Done |
 | 36 | [PROBLEM](https://codeforces.com/problemset/problem/268/B)  |   |
 | 37 | [PROBLEM](https://codeforces.com/problemset/problem/476/A)  |   |
 | 38 | [PROBLEM](https://codeforces.com/problemset/problem/500/A)  |   |
