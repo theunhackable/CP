@@ -36,7 +36,7 @@ reference: [Strivers CP](https://takeuforward.org/interview-experience/strivers-
 | 29 | [1300B - Assigning to Classes](https://codeforces.com/problemset/problem/1300/B) |  REVISE |
 | 30 | [1430C - Numbers on Whiteboard](https://codeforces.com/problemset/problem/1430/C) | Done  |
 | 31 | [A - Petr and Book](https://codeforces.com/contest/139/problem/A)     |  Done |
-| 32 | [PROBLEM](https://codeforces.com/problemset/problem/219/A)  |   |
+| 32 | [219A - k-String](https://codeforces.com/problemset/problem/219/A)  |  Done |
 | 33 | [PROBLEM](https://codeforces.com/problemset/problem/1141/A) |   |
 | 34 | [PROBLEM](https://codeforces.com/problemset/problem/118/B)  |   |
 | 35 | [PROBLEM](https://codeforces.com/problemset/problem/1373/A) |   |
